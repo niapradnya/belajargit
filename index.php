@@ -1,1 +1,1 @@
-Ini adalah teks pertama saya di git
+Ini adalah teks pertama saya di gitx
